@@ -16,3 +16,11 @@ osu!scorecard generator gets a score's data from the osu!api and then places tha
 - Allow resizing elements
 - Allow changing fonts
 - Look into allowing other API's (Ripple, Akatsuki, etc)
+
+## Acknowledgements
+
+Parts of the code and documentation in this repository were developed with the assistance of AI
+
+---
+
+Made with ❤️ for the osu! community
